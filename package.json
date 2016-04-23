@@ -1,0 +1,27 @@
+{
+  "name": "ztm-timetable",
+  "version": "1.0.0",
+  "description": "Simple ZTM timetable.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^1.13.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamWu91/ztm-timetable.git"
+  },
+  "keywords": [
+    "ZTM",
+    "timetable"
+  ],
+  "author": "Adam Wasilewski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdamWu91/ztm-timetable/issues"
+  },
+  "homepage": "https://github.com/AdamWu91/ztm-timetable#readme"
+}
